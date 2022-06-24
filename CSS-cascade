@@ -1,0 +1,23 @@
+<style>
+  .cascade {
+    font-size: 25px;
+  }
+
+  p {
+    padding: 15px;b
+  }
+</style>
+
+<p class="cascade">Best team in the world</p>
+Your solution:
+<style>
+  #red {
+    color: red;
+  }
+
+  .bold {
+    font-weight: bold;
+  }
+</style>
+
+<p id="red" class="bold">Chelsea</p>
